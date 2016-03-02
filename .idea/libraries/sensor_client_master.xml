@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="sensor-client-master">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/sensor-client-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/sensor-client-master/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/sensor-client-master" recursive="false" />
+  </library>
+</component>

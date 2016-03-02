@@ -1,0 +1,1 @@
+'{  "sensorID": "sensor_redis_1",  "timestamp": 1431483863000,  "x": 1.1,  "y": 2.2,  "z": 3.3,  "values": {    "abc": 110,     "idsss": "id123"}}'
